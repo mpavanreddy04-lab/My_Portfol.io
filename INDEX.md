@@ -130,7 +130,7 @@
             <div class="job">
                 <div class="job-title">Senior Role / Title</div>
                 <div class="company">Company Name Name | 2024 - Present</div>
-                <p>Describe your core accomplishments here. Focus on the impact you made, technologies you implemented, and metrics achieved during your tenure.</p>
+                <p>Describe your core accomplishments here. Focus on the impact you made, technologies you implemented, and metrics achieved during your tenur</p>
             </div>
 
             <div class="job">
